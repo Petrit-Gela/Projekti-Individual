@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JffhApR1TJbon6BCukcyAAjYylSJS/AaKafumza8r28Qghj0BSfOPEIXtuCaYh2+S13YSm1futzl7JuD5Z0rug==",
+  "dgSpecHash": "l13HuZtVWZQ+uXToC/s+VOxTAqJPilkFOO0zC97o7Or0+Gyn+cgOd2zNq98cP2ugXvBThdudFkwPLLt3A0yDQA==",
   "success": true,
-  "projectFilePath": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\aspnetserver\\Projekti-Individual\\aspnetserver\\aspnetserver.csproj",
+  "projectFilePath": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\Projekti-Individual\\aspnetserver\\aspnetserver\\aspnetserver.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.3\\microsoft.data.sqlite.core.6.0.3.nupkg.sha512",

@@ -1332,11 +1332,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\aspnetserver\\Projekti-Individual\\aspnetserver\\aspnetserver.csproj",
+      "projectUniqueName": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\Projekti-Individual\\aspnetserver\\aspnetserver\\aspnetserver.csproj",
       "projectName": "aspnetserver",
-      "projectPath": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\aspnetserver\\Projekti-Individual\\aspnetserver\\aspnetserver.csproj",
+      "projectPath": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\Projekti-Individual\\aspnetserver\\aspnetserver\\aspnetserver.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\aspnetserver\\Projekti-Individual\\aspnetserver\\obj\\",
+      "outputPath": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\Projekti-Individual\\aspnetserver\\aspnetserver\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
